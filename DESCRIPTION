@@ -1,15 +1,18 @@
 Package: firstqalam
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Alef_qalam
+Version: 0.0.0.1
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Fakhteh",
+           family = "Hesamifard",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "fhesamifard@gmail.com")
 Description: What the package does (one paragraph).
-License: What license it uses
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/fhesamifard/firstqalam
 BugReports: https://github.com/fhesamifard/firstqalam/issues
+Suggests: 
+    testthat,
+    spelling
+Language: en-US

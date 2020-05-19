@@ -1,2 +1,7 @@
 ^firstqalam\.Rproj$
 ^\.Rproj\.user$
+^LICENSE\.md$
+^README\.Rmd$
+^\.travis\.yml$
+^appveyor\.yml$
+^data-raw$
